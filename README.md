@@ -16,5 +16,10 @@ NODE-RED
 ## AGREGAMOS LA LIBRERIAS DEL CODIGO
 ![image](https://github.com/ErickRomeroRamos/Sensor-DHT22-con-NODE-RED/assets/153964793/0741279f-d6bb-4e97-b7c0-8a189b77d54c)
 ## CONFIGURAMOS LA IP EN WOKI
+![image](https://github.com/ErickRomeroRamos/Sensor-DHT22-con-NODE-RED/assets/153964793/5027fc6b-5ae2-4320-9ada-a1150c6dd0fe)
+### CARGAMOS EL CODIGO
+CARGAMOS LOS DATOS EN WOKI Y VISUALIZAMOS EN NOT RED
+
+
 
 
