@@ -14,5 +14,7 @@ NODE-RED
 ## CONFIGURAMOS LA IP EN EL MQTT
 ![image](https://github.com/ErickRomeroRamos/Sensor-DHT22-con-NODE-RED/assets/153964793/43842515-a14f-4f95-b225-671cd6a8164b)
 ## AGREGAMOS LA LIBRERIAS DEL CODIGO
+![image](https://github.com/ErickRomeroRamos/Sensor-DHT22-con-NODE-RED/assets/153964793/0741279f-d6bb-4e97-b7c0-8a189b77d54c)
+## CONFIGURAMOS LA IP EN WOKI
 
 
